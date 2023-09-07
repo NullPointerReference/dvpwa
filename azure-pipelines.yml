@@ -21,3 +21,4 @@ steps:
     projectName: '$(Build.Repository.Name)'
     branchName: '$(Build.SourceBranchName)'
     tenantName: 'nfr_cert2connect'
+
